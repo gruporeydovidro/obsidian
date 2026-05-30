@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "APRENDENDO O OBSIDIAN",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "Esquadria",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Custos ",
+      "color": {
+        "a": 1,
+        "rgb": 16189520
+      }
+    },
+    {
+      "query": "Reservatório",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "Tópicos do sono",
+      "color": {
+        "a": 1,
+        "rgb": 14701269
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.92006237006237,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 5.59251559251559,
+  "linkStrength": 0.728690228690229,
+  "linkDistance": 189,
+  "scale": 0.2932567304212307,
+  "close": false
+}

@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "94678a8413713f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fbf8c68b8fc9be9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e57444483f2f207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reservatório de Dopamina/B) Desenvolvimento Pessoal/1. A trivialidade da Excelência.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. A trivialidade da Excelência"
+            }
+          },
+          {
+            "id": "7a8e0bbdbf18a5b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reservatório de Dopamina/Reservatório de Dopamina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reservatório de Dopamina"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fbd8f113a9cb000",
+    "type": "split",
+    "children": [
+      {
+        "id": "d32204f4d7876d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "166e86681258b7bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "cf711b22e82c8372",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "061768d42c12b498",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46139d963360d9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aea04263574e021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6661b80e1b2d34f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reservatório de Dopamina/Reservatório de Dopamina.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Reservatório de Dopamina"
+            }
+          },
+          {
+            "id": "2e4101777183b8be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reservatório de Dopamina/Reservatório de Dopamina.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Reservatório de Dopamina"
+            }
+          },
+          {
+            "id": "c4613aabaf4bd6b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0dbddc491f4172f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "d9ceb429ed461801",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reservatório de Dopamina/Reservatório de Dopamina.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Reservatório de Dopamina"
+            }
+          },
+          {
+            "id": "e18e17fca42c6a5d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "bba43e08f7e61f39",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-bot-message-square",
+              "title": "Chatgpt"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 440.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "bases:Criar nova base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-custom-frames:Open Chatgpt": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "copilot:Open Copilot Chat": false,
+      "translate:Open translation view": false
+    }
+  },
+  "active": "7a8e0bbdbf18a5b1",
+  "lastOpenFiles": [
+    "Reservatório de Dopamina/B) Desenvolvimento Pessoal/1. A trivialidade da Excelência.md",
+    "Reservatório de Dopamina/Reservatório de Dopamina.md",
+    "Reservatório de Dopamina/A) Sono/1 . Sono.md",
+    "Reservatório de Dopamina/B) Desenvolvimento Pessoal/3. Sono.md",
+    "Reservatório de Dopamina/B) Desenvolvimento Pessoal/3. Sono 2.md",
+    "Reservatório de Dopamina/B) Desenvolvimento Pessoal/3. Sono(1).md",
+    "Reservatório de Dopamina/B) Desenvolvimento Pessoal/2. A sociedade emburrece a concorrência.md",
+    "Reservatório de Dopamina/Tópicos do sono.md",
+    "Reservatório de Dopamina/Tópicos de Desenvolvimento pessoal.md",
+    "Reservatório de Dopamina/Tópicos de Alimentação.md"
+  ]
+}
